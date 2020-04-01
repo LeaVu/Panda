@@ -17,28 +17,28 @@ Panda Design Study UI UX
 
 ![Happy Panda](Panda-happy.png?raw=true)
 
-[PNG](Panda-happy.png) [JPEG](Panda-happy.jpg)
+Download: [PNG](Panda-happy.png) or [JPEG](Panda-happy.jpg)
 
 ## Currious Panda
 
 ![Currious Panda](Panda-currious.png?raw=true)
 
-[PNG](Panda-currious.png) [JPEG](Panda-currious.jpg)
+Download: [PNG](Panda-currious.png) or [JPEG](Panda-currious.jpg)
 
 ## Sleeping Panda
 
 ![Sleeping Panda](Panda-sleep.png?raw=true)
 
-[PNG](Panda-sleep.png) [JPEG](Panda-sleep.jpg)
+Download: [PNG](Panda-sleep.png) or [JPEG](Panda-sleep.jpg)
 
 ## Sad Panda
 
 ![Sad Panda](Panda-Sad.png?raw=true)
 
-[PNG](Panda-Sad.png) [JPEG](Panda-Sad.jpg)
+Download: [PNG](Panda-Sad.png) or [JPEG](Panda-Sad.jpg)
 
 ## Sitting Panda
 
 ![Sitting Panda](Panda-sitting.png?raw=true)
 
-[PNG](Panda-sitting.png) [JPEG](Panda-sitting.jpg)
+Download: [PNG](Panda-sitting.png) or [JPEG](Panda-sitting.jpg)
